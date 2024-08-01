@@ -12,6 +12,6 @@ All application histories below
 
 | Job title                                                                   | Company                  | Status                                      | Last Updated  |
 | --------------------------------------------------------------------------- | ------------------------ | ------------------------------------------- | ------------- |
-| [API Engineers (Intermediate & Senior](/JD/xero_22_jul_2024.md)             | Xero                     | [Rejected](/Rejections/xero_1_aug_2024.md)  |  1 Aug 2024   |
+| [API Engineers (Intermediate & Senior)](/JD/xero_22_jul_2024.md)            | Xero                     | [Rejected](/Rejections/xero_1_aug_2024.md)  |  1 Aug 2024   |
 | [Engineering Manager - Machine Learning Platform](/JD/canva_22_jul_2024.md) | Canva                    | [Rejected](/Rejections/canva_1_aug_2024.md) |  1 Aug 2024   |
-| Staff Software Engineer - .NET                                              | Commonwealth Bank (CBA)  | Applied                                     | 22 Jul 2024   |
+| [Staff Software Engineer - .NET](/JD/cba_22_jul_2024.md)                    | Commonwealth Bank (CBA)  | Applied                                     | 22 Jul 2024   |
