@@ -4,7 +4,7 @@ Let's see how many rejections contribute one success.
 
 ###### The first 1000 rejections
 
-![Progress](https://progress-bar.dev/3/?scale=1000&title=rejections&width=200&color=babaca&suffix=/1000) 
+![Progress](https://progress-bar.dev/2/?scale=1000&title=rejections&width=200&color=babaca&suffix=/1000) 
 
 All application histories below
 <br />
