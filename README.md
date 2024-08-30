@@ -6,7 +6,7 @@ Let's see how many rejections contribute one success.
 
 | rejected | applied | total |
 |-|-|-|
-| 3 | 11 | 1000 |
+| 4 | 11 | 1000 |
 
 ###### Histories
 
@@ -23,6 +23,6 @@ Let's see how many rejections contribute one success.
 | [C# Full Stack Software Developer](/JD/SensorDynamics_24_aug_2024.md) | Sensor Dynamics | Applied | 24 Aug 2024 |
 | [Full Stack Developer (.net & Angular)](/JD/iPropertyExpressPtyLtd_24_aug_2024.md) | iProperty Express Pty Ltd | Applied | 24 Aug 2024 |
 | [.Net Technical Analyst)](/JD/Anblicks_30_aug_2024.md) | Anblicks | Applied | 30 Aug 2024 |
-| [Experienced Developer - Mobile Apps)](/JD/Fastmail_30_aug_2024.md) | Fastmail | Applied | 30 Aug 2024 |
+| [Experienced Developer - Mobile Apps)](/JD/Fastmail_30_aug_2024.md) | Fastmail | [Rejected](/Rejections/Fastmail_30_aug_2024.md) | 30 Aug 2024 |
 | [Senior Software Engineer)](/JD/JumboInteractiveLimited_30_aug_2024.md) | Jumbo Interactive Limited  | Applied | 30 Aug 2024 |
 | [Senior Developer - SME)](/JD/myob_30_aug_2024.md) | Myob  | Applied | 30 Aug 2024 |
