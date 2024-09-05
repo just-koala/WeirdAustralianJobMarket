@@ -6,7 +6,7 @@ Let's see how many rejections contribute one success.
 
 | rejected | applied | total |
 |-|-|-|
-| 4 | 11 | 1000 |
+| 5 | 11 | 1000 |
 
 ###### Histories
 
@@ -25,4 +25,4 @@ Let's see how many rejections contribute one success.
 | [.Net Technical Analyst](/JD/Anblicks_30_aug_2024.md) | Anblicks | Applied | 30 Aug 2024 |
 | [Experienced Developer - Mobile Apps](/JD/Fastmail_30_aug_2024.md) | Fastmail | [Rejected](/Rejections/Fastmail_30_aug_2024.md) | 30 Aug 2024 |
 | [Senior Software Engineer](/JD/JumboInteractiveLimited_30_aug_2024.md) | Jumbo Interactive Limited  | Applied | 30 Aug 2024 |
-| [Senior Developer - SME](/JD/myob_30_aug_2024.md) | Myob  | Applied | 30 Aug 2024 |
+| [Senior Developer - SME](/JD/myob_30_aug_2024.md) | Myob  | [Rejected](/Rejections/myob_2_sept_2024.md) | 02 Sept 2024 |
