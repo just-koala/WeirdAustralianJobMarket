@@ -1,0 +1,1 @@
+> Thank you for taking the time to apply for the Senior Software Engineer role and expressing your interest in joining our team at Jumbo Interactive Limited. While we have carefully reviewed your application, we regret to inform you that you haven't progressed to the next stage. Nevertheless, we wanted to acknowledge the effort and dedication you put into your application.
